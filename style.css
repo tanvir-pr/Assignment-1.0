@@ -1,0 +1,67 @@
+ .header-background-img {
+  background: url(/assaingment-1/picture/Hero-bg.png);
+        /*box design    */
+  width: 1440px;
+  height: 652px;
+  left: 1440px;
+  right: -1440px;
+  top: 131px;
+  bottom: 4462px;
+
+  display: flex;
+ justify-content: center;
+}
+         /* box style   */
+.bannar-content {
+  width: 998px;
+  height: 582px;
+  left: 221px;
+  right: 221px;
+  top: 157px;
+  bottom: 4506px;
+  text-align: center;
+}
+.h3 {  
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 48px;
+font-weight: 800;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+width: 998px;
+height: 136px;
+
+}
+.h5{
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 26px;
+  letter-spacing: 0%;
+ 
+  opacity: 0.7;
+
+  width: 998px;
+  height: 52px;
+
+}
+
+.btn-1 {
+border-radius: 8px;
+background: rgb(13, 19, 33);
+
+width: 208px;
+height: 66px;
+
+ color: rgb(255, 255, 255);
+ font-family: Azeret Mono;
+ font-size: 20px;
+ font-weight: 600;
+ line-height: 23px;
+ letter-spacing: 0%;
+}
+
+
+
