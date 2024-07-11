@@ -401,3 +401,103 @@ margin: 15px;
   width: 1000px;
 margin: 0 auto;
 }
+
+
+/*  page 5 suru*/
+.page5-h3 { 
+  color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+text-align: center;
+width: 900px;
+height: 36px;
+
+}
+.page5-h5{
+  color: rgb(255, 255, 255);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  width: 900px;
+  height: 52px;
+}
+.pic-text {
+display: flex;
+flex-direction: column;
+text-align: center;
+
+
+
+}
+
+.pic-box {
+  background: url("./picture/handshake.jpg"); 
+border-radius: 16px;
+
+
+}
+
+
+.last-part {
+ 
+
+  width: 1000px;
+  margin: 0 auto;
+
+  padding: 64px 48px;
+}
+
+
+.name-box {
+display: flex;
+justify-content: center;
+text-align: center;
+padding: 50px 50px 50px 50px;
+margin: 10px 10px 10px 10px;
+
+
+}
+.placeholder {
+  box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+
+width: 548px;
+height: 57px;
+}
+.button5 {
+ 
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+
+border-radius: 8px;
+background: rgb(255, 255, 255);
+width: 120px;
+height: 57px;
+}
+/* footer */
+
+.footer {
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.03);
+
+}
+.textfooter {
+
+  padding: 0px 130px;
+} 
+.img-footer {
+  padding: 0px 130px;
+}
