@@ -257,13 +257,147 @@ padding: 32px;
   width: 1076px;
   height: 550px;
  
-
 }
 .page3 {
  
+  width: 1000px;
+margin: 0 auto;
+
+
+}
+
+/* page 4 suru */
+.page4h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+
+
+}
+.page4h5 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+
+  opacity: 0.7;
+
+  width: 284px;
+height: 52px;
+
+}
+.page4img {
+
+}
+.learn {
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
+.page4heading {
+
+
+}
+.barbox1 {
+  border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+padding: 30px 0px 30px 30px;
+
+} 
+.barbox2 {
+  border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+padding: 30px 0px 30px 30px;
+} 
+.barbox3 {
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+  padding: 30px 0px 30px 30px;
+} 
+.box-container {
+display: flex;
+gap: 24px;
+justify-content: center;
+
+
+
+}
+.box4-1 {
+ 
+       
+}
+ /*    2 er kaj suru */
+.carimg {
+ margin: 50px 0px 0px 0px;
+
+}
+.cartext {
+  padding: 0px 0px 0px 30px;
+
+justify-content: center;
+}
+.cartext-h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.cartext-h5 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.cartext-learn {
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+}
+.carbox {
   display: flex;
-flex-direction: column;
-justify-content: flex-start;
-align-items: center;
-padding: 0px;
+  flex-direction: row;
+
+  box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+
+padding: 40px;
+margin: 15px;
+}
+.box-dibba {
+  display: flex;
+  flex-direction: column;
+
+}
+.divbox4-2 {
+
+}
+.box4full {
+  width: 1000px;
+margin: 0 auto;
 }
